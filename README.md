@@ -7,7 +7,7 @@ A board game destined for a better understanding of release planning. Contains i
 ## The Game
 
 ### Story
-The playing team is given a task of developing security software features. Since the initial funding is limited, players are required to choose an optimal strategy to obtain a balance of the two introduced variables: revenue and reputation. However, there are unpredictable events happening each month (or sprint), which can either improve the state of budget and other variables, or lead to difficulties in further planning. Players will face these difficulties and compete against each other to finish with the best final score after 6 sprints of the game.
+The playing team is given a task of developing security software features. Since the initial funding is limited, players are required to choose an optimal strategy to obtain a balance of the two introduced variables: revenue and reputation. However, there are unpredictable events happening each month (or _sprint_), which can either improve the state of budget and other variables, or lead to difficulties in further planning. Players will face these difficulties and compete against each other to finish with the best final score after 6 sprints of the game.
 
 
 ### Get Playing
@@ -22,7 +22,6 @@ If you want to get playing as fast as possible all you need is to go into the **
 
 #### Instructions
 Minimum: _1 player_
-
 Recommended: _2-4 players_
 
 ### Tweak the game
