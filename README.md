@@ -19,6 +19,10 @@ If you want to get playing as fast as possible all you need is to go into the **
 * __1 (minimum)__ Tree Diagram _(Suggested size __A3__)_
 * You will also need __at least 1 dice__
 
+### Tweak the game
+If you want to change the story, or just make the game better suit your needs and desires you can find all the files necesarry for editing in the __Editable - project files__ folder.
+_You need a minimum of Photoshop experience_
+
 
 ### License
 As found [here](https://choosealicense.com/)
