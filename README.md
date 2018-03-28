@@ -31,6 +31,10 @@ _You need a minimum of Photoshop experience_
 
 
 ## Survey
+The questionnare and interview performed on the trial group can be found in the __Survey Folder__ or
+ * [Questionare here](https://github.com/bodyionita/Cyber-Security-Tycoon/blob/master/Survey/Questionnaire.pdf)
+ * [Interview here](https://github.com/bodyionita/Cyber-Security-Tycoon/blob/master/Survey/1-on-1%20interview.pdf)
+
 
 ### License
 As found [here](https://choosealicense.com/)
