@@ -22,6 +22,7 @@ If you want to get playing as fast as possible all you need is to go into the **
 
 #### Instructions
 Minimum: _1 player_
+
 Recommended: _2-4 players_
 
 ### Tweak the game
@@ -45,7 +46,7 @@ As found [here](https://choosealicense.com/)
 ### Authors
  - __Bogdan Ionita__ - bogdan.ionita.15@ucl.ac.uk  
  - __Nadia Mahgerefteh__ - nadia.mahgerefteh.15@ucl.ac.uk
- - __Stefan Manole__ - stefan.manole.15@ucl.ac.uk
- - __Daniil Gannota__ - daniil.gannota.15@ucl.ac.uk  
+ - __Stefan Manole__ - stefan.manole.15@ucl.ac.uk 
  - __Mihai Ionescu__ - mihai.ionescu.15@ucl.ac.uk 
+ - __Daniil Gannota__ - daniil.gannota.15@ucl.ac.uk 
 
