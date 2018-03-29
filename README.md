@@ -25,6 +25,7 @@ Minimum: _1 player_
 
 Recommended: _2-4 players_
 
+Read the instructions [here](https://github.com/bodyionita/Cyber-Security-Tycoon/blob/master/Game%20instructions.pdf).
 ### Tweak the game
 If you want to change the story, or just make the game better suit your needs and desires you can find all the files necesarry for editing in the __Editable - project files__ folder.
 _You need a minimum of Photoshop experience_
