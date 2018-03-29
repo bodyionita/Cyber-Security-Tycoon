@@ -38,13 +38,13 @@ The questionnare and interview performed on the trial group can be found in the 
  * [Interview here](https://github.com/bodyionita/Cyber-Security-Tycoon/blob/master/Survey/1-on-1%20interview.pdf)
 
 
-### License
+## License
 As found [here](https://choosealicense.com/)
 >The GNU GPLv3 is a copyleft license that requires anyone who distributes your code or a 
 >derivative work to make the source available under the same terms, and also provides an express 
 >grant of patent rights from contributors to users.
 
-### Authors
+## Authors
  - __Bogdan Ionita__ - bogdan.ionita.15@ucl.ac.uk  
  - __Nadia Mahgerefteh__ - nadia.mahgerefteh.15@ucl.ac.uk
  - __Stefan Manole__ - stefan.manole.15@ucl.ac.uk 
